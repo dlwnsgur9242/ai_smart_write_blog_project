@@ -1,6 +1,6 @@
 # 2a2seung_project 🌟
 
-AI autocomplete personal blog project
+AI autocomplete blog project
 
 # Tech Stack 🌟
 <pre>
